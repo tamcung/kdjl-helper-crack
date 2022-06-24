@@ -1,2 +1,2 @@
 const bytenode = require('bytenode')
-require('./kdjl.js')
+require('./kdjl.jsc')
